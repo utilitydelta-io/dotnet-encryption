@@ -6,6 +6,8 @@
     <PackageProjectUrl>https://github.com/utilitydelta-io/dotnet-encryption</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/utilitydelta-io/dotnet-encryption/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/utilitydelta-io/dotnet-encryption</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
