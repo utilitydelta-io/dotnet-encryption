@@ -2,12 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Description>Simplifies methods to send encrypted data from one machine to another. Exchance a secret key using asymmetric encryption, then transfer streams of data using symmetric encryption with the shared secret key</Description>
+    <Description>Simplifies methods to send encrypted data from one machine to another. Exchange a secret key using asymmetric encryption, then transfer streams of data using symmetric encryption with the shared secret key</Description>
     <PackageProjectUrl>https://github.com/utilitydelta-io/dotnet-encryption</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/utilitydelta-io/dotnet-encryption/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/utilitydelta-io/dotnet-encryption</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </PropertyGroup>
 
 </Project>

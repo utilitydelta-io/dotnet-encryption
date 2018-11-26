@@ -3,7 +3,7 @@
 namespace UtilityDelta.Encryption
 {
     /// <summary>
-    /// Create a public and private key for asymmetric encryption purposes
+    ///     Create a public and private key for asymmetric encryption purposes
     /// </summary>
     public class PublicPrivateKeyGenerator
     {

@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Security.Cryptography;
+
 // ReSharper disable UnusedMember.Global
 // ReSharper disable InconsistentNaming
 
 namespace UtilityDelta.Encryption
 {
     /// <summary>
-    /// A wrapper class that can be serialized to send over the wire
-    /// or written to disk
+    ///     A wrapper class that can be serialized to send over the wire
+    ///     or written to disk
     /// </summary>
     [Serializable]
     public class RsaParametersSerializable
